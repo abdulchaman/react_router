@@ -3,9 +3,9 @@ import React from "react";
 const Home = () => {
   return (
     <>
-      <div class="panel panel-primary">
-        <div class="panel-heading">Home</div>
-        <div class="panel-body">
+      <div className="panel panel-primary">
+        <div className="panel-heading">Home</div>
+        <div className="panel-body">
           Home is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text ever
           since the 1500s, when an unknown printer took a galley of type and

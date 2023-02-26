@@ -1,10 +1,10 @@
 import React from "react";
 
-const Footer = ()=>{
+const Footer = (props)=>{
     return(
         <>
             <hr></hr>
-            <h3>&nbsp; Developer Funnel 2023</h3>
+            <h3>&nbsp; Developer Funnel {props.year}</h3>
         </>
     )
 }
